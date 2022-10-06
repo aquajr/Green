@@ -1,0 +1,62 @@
+h1, p {
+    margin-left: 200px;
+    color:chocolate;
+}
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 40px;
+}
+span {
+    color:green;
+}
+
+/*****nav bar*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ghostwhite;
+}
+nav ul li {
+    border: 5px solid black;
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+}
+
+/*img*/
+img {
+    height: 300px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
